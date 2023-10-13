@@ -1,6 +1,6 @@
 package ISC;
 
-public class TipeData {
+public class Hari1 {
     public static void main(String[] args) {
         //Tipe data primitf
     
