@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Hari4 {
+public class HitungLuasPersegiPanjang {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int panjang, lebar, luas;
