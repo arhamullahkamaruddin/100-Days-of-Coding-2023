@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Aritmatika {
+public class Hari3 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         
