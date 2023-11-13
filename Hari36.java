@@ -50,7 +50,8 @@ public class RumusMenghitungJarakKecepatanWaktu {
     
     static void HitungJarak(){
         Scanner input = new Scanner(System.in);
-        
+
+        System.out.println("Menghitung Jarak");
         System.out.print("Masukkan kecepatan dalam m/s: ");
         int kecepatan = input.nextInt();
 
