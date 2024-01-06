@@ -6,7 +6,7 @@ public class Durian {
         System.out.print("Masukkan berat durian (kg): ");
         int beratDurian = input.nextInt();
         
-        int hargaPerKg = 20;
+        int hargaPerKg = 20000;
         
         int totalHarga = beratDurian*hargaPerKg;
 
